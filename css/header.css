@@ -1,0 +1,115 @@
+.jumbotron{
+  background-image: url(https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/1/the-crown-you-will-always-wear-4-april-cooper.jpg);
+   z-index: -1;
+    background-color: rgb(17, 162, 230);
+    background-repeat: no-repeat;
+    
+    background-size: 70vh;
+    height: 100vh;
+    color: rgb(10, 10, 10);
+    font-family:'Cinzel', serif;
+    
+}
+   .shape{
+       height: 80vh;
+       width: 80vh;
+       position: absolute;
+       top: 0;
+       bottom: 0;
+       left: 0;
+       right: 0;
+
+   }
+
+   .limit{
+       z-index: -1;
+   }
+    
+   
+   .row{
+       margin-right: auto;
+   }
+   
+   
+   
+   /*
+    https://wallpapercave.com/wp/wp661789.png)
+    --light-black: #2e2c2caf;
+    --bggradient: linear-gradient(to bottom, #dd2476, #ff512f);
+    --light-gray: rgba(255, 255, 255, 0.877);
+    https://images.unsplash.com/photo-1498721409281-998093cc905b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80
+    
+    https://cdn.pixabay.com/photo/2020/05/17/20/34/concept-5183469_1280.jpg
+ 
+    https://images.unsplash.com/photo-1498721409281-998093cc905b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80
+    
+    https://cdn1.vectorstock.com/i/1000x1000/05/90/abstract-geometric-lines-background-vector-900590.jpg
+    https://images.pexels.com/photos/534247/pexels-photo-534247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+
+    https://images.unsplash.com/photo-1509114397022-ed747cca3f65?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8OTR8fGFic3RyYWN0fGVufDB8fDB8&auto=format&fit=crop&w=800&q=60
+    https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-sexy-blue.png
+    
+    text-shadow:
+    .1vw 0vw .25vw rgb(12, 11, 11), .2vw 0vw .25vw rgb(15, 15, 15), .4vw 0vw .25vw rgb(12, 12, 12),
+    
+    .1vw 0vw  0vw #e25707, .2vw 0vw 0vw     .1vw 0vw  0vw #e25707, 
+    .1vw 0vw  0vw #e25707, .2vw 0vw 0vw #960a96, .4vw 0vw 0vw #960a96,
+    .2vw 0vw 0vw #960a96, .4vw 0vw 0vw #    .1vw 0vw  0vw #e25707, .2vw 0vw 0vw #960a96, .4vw 0vw 0vw #960a96,
+    ,
+        , .4vw 0vw 0vw #960a96,
+    .1vw 0vw .1vw #960a96, .2vw 0vw .1vw #960a96, .4vw 0vw .1vw #960a96,
+    .1vw 0vw .2vw #0a0a0a, .2vw 0vw 2vw #960a96, .4vw 0vw 2vw #960a96,
+
+    .1vw 0vw 1vw #3e98ff, .2vw 0vw 1vw #3e98ff, .4vw 0vw 5vw #3e98ff,
+    .1vw 0vw 5vw #3e98ff, .2vw 0vw 20vw #3e98ff, .4vw 0vw 10vw #3e98ff,
+    .1vw 0vw 10vw #3e98ff, .2vw 0vw 30vw #3e98ff, .4vw 0vw 10vw #3e98ff;
+
+*/
+
+.display-4{
+    
+    text-shadow: -1px -1px 0 rgb(250, 247, 247),
+    1px -1px 0 rgb(255, 251, 251),
+    -1px 1px 0 rgb(252, 241, 241),
+    1px -1px 0 black;
+    
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 1000px;
+    top: 200px;
+    font-size: 30px;
+}
+
+.lead{
+    
+    
+    text-shadow: -1px -1px 0 rgb(247, 244, 244),
+    1px -1px 0 rgb(247, 243, 243),
+    -1px 1px 0 rgb(245, 239, 239),
+    1px -1px 0 black;
+
+    
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+    top: 240px;
+    left: 850px;
+    font-size: 30px;
+}
+
+.hello{
+    text-align: center;
+    margin-bottom: auto;
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px -1px 0 black;
+
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    top: 455px;
+
+}
