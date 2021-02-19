@@ -1,0 +1,31 @@
+@font-face{
+    font-family: Good Brush;
+    src: url(assets/GoodBrush.ttf);
+}
+
+.card{
+    z-index: 200;
+    display: flex;
+    
+}
+.pics{
+    width: 20px;
+    height: 10px;
+
+}
+
+.splat{
+    position:absolute;
+    margin: auto;
+    z-index: -200;
+    width: 20px;
+    height: 20px;
+    top: 0;
+}
+
+.card-header a {
+    color: black;
+}
+.slide{
+    width: 20px;
+}

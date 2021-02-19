@@ -1,0 +1,14 @@
+@font-face{
+    font-family: Good Brush;
+    src: url(assets/GoodBrush.ttf);
+}
+
+.me{
+    font-family: Good Brush;
+    font-size: 70px;
+}
+
+.gma{
+    font-family: Good Brush; 
+    font-size: 30px;
+}

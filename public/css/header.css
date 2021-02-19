@@ -4,10 +4,10 @@
     background-color: rgb(17, 162, 230);
     background-repeat: no-repeat;
     
-    background-size: 70vh;
-    height: 100vh;
-    color: rgb(10, 10, 10);
-    font-family:'Cinzel', serif;
+    background-size: 57vh;
+    height: 80vh;
+    color: black;
+    font-family: Good Brush;
     
 }
    .shape{
@@ -68,34 +68,28 @@
 
 .display-4{
     
-    text-shadow: -1px -1px 0 rgb(250, 247, 247),
-    1px -1px 0 rgb(255, 251, 251),
-    -1px 1px 0 rgb(252, 241, 241),
-    1px -1px 0 black;
+    
     
     position: absolute;
     bottom: 0;
     right: 0;
     left: 1000px;
-    top: 200px;
-    font-size: 30px;
+    top: 170px;
+    font-size: 37px;
 }
 
 .lead{
     
     
-    text-shadow: -1px -1px 0 rgb(247, 244, 244),
-    1px -1px 0 rgb(247, 243, 243),
-    -1px 1px 0 rgb(245, 239, 239),
-    1px -1px 0 black;
-
+   
     
     position: absolute;
     bottom: 0;
     right: 50px;
-    top: 240px;
-    left: 850px;
-    font-size: 30px;
+    top: 270px;
+    left: 800px;
+    right: 0;
+    font-size: 42px;
 }
 
 .hello{
@@ -113,3 +107,23 @@
     top: 455px;
 
 }
+
+
+.resume{
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+    top: 350px;
+    left: 1030px;
+    right: 0;
+    font-size: 90px;
+
+}
+
+
+
+
+/*text-shadow: -1px -1px 0 rgb(247, 244, 244),
+1px -1px 0 rgb(247, 243, 243),
+-1px 1px 0 rgb(245, 239, 239),
+1px -1px 0 black;/*
